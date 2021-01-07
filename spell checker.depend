@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610043574 source:n:\spell checker\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<ctype.h>
+	<conio.h>
+
