@@ -1,9 +1,6 @@
 /*
 Program: spell checker
 Description: It is a spell checker program. It checks if the spelling of entered word is right or wrong. I spelling is wrong it give suggestions of correct spellings.
-Author: Lord Hypersonic
-Email: lordhypersonic.522@gmail.com
-Website: www.lordhypersonic.blogspot.com
 */
 #include <iostream>
 #include <string>
